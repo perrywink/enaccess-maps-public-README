@@ -17,7 +17,7 @@ This version of the app has no been uploaded to either app store yet.
   - Testing on a local apk build works great. 
   - Therefore, the `abb` release currently uploaded to the Google Play account is just pending release purely due to id verification complications mentioned.
 - IOS deployment has not been touched. Contact Sabrina about the 99 USD Apple developer subscription.
-- The app is published on the Expo App Store.
+- The app is published on the Expo App Store and works well for Android. Unfortunately, there are issues for using it on Expo on iOS that I have not been able to debug :(
 
 Missing features include:
 - Uploading pictures alongside the reviews.
